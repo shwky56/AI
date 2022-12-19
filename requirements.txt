@@ -1,0 +1,7 @@
+numpy
+pygame
+itertools
+time
+array
+math
+matplotlib
